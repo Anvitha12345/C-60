@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+
+
+
+
+}
+
+.line {
+    width: 50px;
+    height: 10px;
+    background-color: black;
+    margin: 8px auto;
+}
+
+img {
+    transition: transform .2s;
+
+
+}
+
+img:hover {
+    transform: scale(0.9);
+
+
+}
+
+#Apps {
+    opacity: 0.83;
+    background: linear-gradient(#b2c1d9 0%, #a28ce6 100% );
+}
+
+#chatbot {
+    opacity: 0.83;
+    background: linear-gradient(#8ce6cd 0%, #a28ce6 100% );
+}
+
+#game {
+    opacity: 0.83;
+    background: linear-gradient(#8ce5e6 0%, #a28ce6 100% );
+}
+
+
+
+
+
